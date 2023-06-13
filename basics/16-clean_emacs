@@ -1,2 +1,2 @@
-#!/binOB/bash
-rm *
+#!/bin/bash
+rm *:w
